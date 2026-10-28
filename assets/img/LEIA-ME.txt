@@ -1,0 +1,4 @@
+Coloque aqui a logomarca original e as fotografias, com estes nomes:
+logo-vidotti-ferreira.png, foto-escritorio.jpg, foto-ambiente-escritorio.jpg,
+advogado-01.jpg, advogado-02.jpg, favicon.png
+Detalhes e tamanhos recomendados no README.md.
